@@ -1,5 +1,0 @@
-qw
-1
-eq
-ww
-qq.txt
