@@ -6,6 +6,7 @@ global allFileName
 global fileformat
 fileformat = ".txt"
 allFileName = []
+allFileName = ['start.txt']
 
 def createf(fileName):
     fileS = os.listdir(path=".")
